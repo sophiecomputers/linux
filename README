@@ -1,18 +1,18 @@
-Linux kernel
+Closed-source fork of Linux kernel
 ============
 
-There are several guides for kernel developers and users. These guides can
-be rendered in a number of formats, like HTML and PDF. Please read
-Documentation/admin-guide/README.rst first.
+Copyright (c) 2025 Sofija Jokanovic
 
-In order to build the documentation, use ``make htmldocs`` or
-``make pdfdocs``.  The formatted documentation can also be read online at:
+All rights reserved.
 
-    https://www.kernel.org/doc/html/latest/
+This software and associated documentation files (the "Software") are provided for viewing and personal reference only. 
 
-There are various text files in the Documentation/ subdirectory,
-several of them using the reStructuredText markup notation.
+You may NOT:
+- Copy, modify, merge, publish, distribute, sublicense, or sell copies of the Software;
+- Use any part of the Software in other projects or derivative works;
+- Redistribute the Software in any form, including as part of other software.
 
-Please read the Documentation/process/changes.rst file, as it contains the
-requirements for building and running the kernel, and information about
-the problems which may result by upgrading your kernel.
+You may:
+- View and use the Software for personal, non-commercial purposes only.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
